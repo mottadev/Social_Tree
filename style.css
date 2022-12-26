@@ -1,0 +1,70 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --blue: #3920cc;
+    font-family: 'Poppins', sans-serif;
+}
+
+body { 
+  background-color: var(--body-bg-color); 
+}
+
+p {
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.2em;
+  text-align: center;
+  color: #3920cc;
+  vertical-align: top;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.elipse {
+  box-sizing: border-box;
+  border-radius: 10em;
+  padding: 3px;
+
+  width: 213px;
+  height: 213px;
+
+  border: 2px solid var(--blue);
+}
+
+.foto {
+  display: flex;
+ justify-content: center;
+}
+
+.rosto {
+  padding-top: 600px;
+}
+
+.principal {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.link {
+  border: 1px solid var(--blue);
+  border-radius: 4px;
+  width: 326px;
+  height: 49px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0; 
+}
+
+.svg {
+  width: 236px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 0.5em;
+  padding-top: 3em;
+}
