@@ -18,7 +18,7 @@ Página âncora com links importantes do perfil de um perfil pessoal.
 <br>
 
 <p align="center">
-  <img alt="social tree links" src="./preview.jpg" width="100%">
+  <img alt="social tree links" src="./preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
